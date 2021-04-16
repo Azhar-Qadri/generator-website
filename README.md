@@ -6,4 +6,4 @@
 
 𝑨𝑫𝑴𝑰𝑵 𝑷𝑨𝑵𝑬𝑳 : Admin Login System | Slider | Categories | Manage Generator  |  Gallery page | Client page | Feedback | Enquery | Career page | Quotation 
 
-𝑭𝑹𝑶𝑵𝑻 𝑬𝑵𝑫𝑺  : Dynamic Slider | Display Generator | Client Reviews | Dynamic Clinet Logo | Service Page | Detial Page | Gallery | Career for Job Seekers |                     Enquery Form | Job Application Form | Searching | Sorting | Pagination | Facebook Page on Footer. 
+𝑭𝑹𝑶𝑵𝑻 𝑬𝑵𝑫𝑺  : Dynamic Slider | Display Generator | Client Reviews | Dynamic Clinet Logo | Service Page | Detial Page | Gallery | Career for Job Seekers |                     Enquery Form | Job Application Form | Searching | Sorting | Pagination | Facebook Page API on Footer | SweetAlert. 
